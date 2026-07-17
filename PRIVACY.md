@@ -20,7 +20,7 @@ Os dados coletados são utilizados exclusivamente para:
 
 ## 4. Retenção e Exclusão de Dados
 * Os dados são armazenados apenas pelo tempo necessário para cumprir suas funções.
-* Se você remover o Bot do seu servidor, os dados de configuração locais poderão ser mantidos por até [Número, ex: 30] dias antes de serem apagados definitivamente.
+* Se você remover o Bot do seu servidor, os dados de configuração locais poderão ser mantidos por até [30 dias] dias antes de serem apagados definitivamente.
 * Para solicitar a exclusão imediata de todos os seus dados armazenados, entre em contato pelo nosso suporte.
 
 ## 5. Alterações nesta Política
