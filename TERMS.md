@@ -9,7 +9,7 @@ Ao adicionar ou usar o [ChatRDA] ("Bot") em seu servidor do Discord, você conco
 
 ## 2. Disponibilidade do Serviço
 * O Bot é fornecido "como está" ("as is") e "conforme disponível".
-* O desenvolvedor não garante que o funcionamento do Bot será 14/7 ininterrupto ou livre de erros.
+* O desenvolvedor não garante que o funcionamento do Bot será 24/7 ininterrupto ou livre de erros.
 * O serviço pode ser alterado, pausado ou descontinuado a qualquer momento sem aviso prévio.
 
 ## 3. Limitação de Responsabilidade
