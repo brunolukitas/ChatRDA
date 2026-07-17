@@ -19,4 +19,4 @@ Ao adicionar ou usar o [ChatRDA] ("Bot") em seu servidor do Discord, você conco
 * Estes termos podem ser atualizados a qualquer momento. O uso contínuo do Bot após as alterações constitui aceitação dos novos termos.
 
 ## 5. Contato
-* Se você tiver dúvidas ou precisar relatar problemas, entre em contato através do servidor de suporte: [Link do seu servidor ou Tag do Discord].
+* Se você tiver dúvidas ou precisar relatar problemas, entre em contato através do servidor de suporte: [https://support.discord.com/hc/].
