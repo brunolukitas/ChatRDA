@@ -1,4 +1,4 @@
-# 🤖 ChatRDA
+# ChatRDA
 
 Bem-vindo ao **ChatRDA**!
 
@@ -11,8 +11,8 @@ O ChatRDA é um assistente de inteligência artificial desenvolvido para o servi
 
 Você pode encontrar informações importantes nos seguintes arquivos:
 
-- 📜 [Termos de Uso](terms.md)
-- 🔒 [Política de Privacidade](privacy.md)
+- 📜 [Termos de Uso](TERMS.md)
+- 🔒 [Política de Privacidade](PRIVACY.md)
 
 ## 🚀 Sobre o projeto
 
