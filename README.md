@@ -26,6 +26,6 @@ Este projeto está em desenvolvimento e novas funções podem ser adicionadas no
 
 Todos os direitos reservados à Bruno Lukitas (BL).
 
-Servidor do Discord RDA: **https://discord.gg/smWySqBN2d**
+[Servidor do Discord RDA](https://discord.gg/smWySqBN2d)
 
-Adicionar o ChatRDA: **https://discord.com/oauth2/authorize?client_id=1527700759221764096**
+🤖 [Adicione o ChatRDA](https://discord.com/oauth2/authorize?client_id=1527700759221764096)
