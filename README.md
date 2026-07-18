@@ -1,4 +1,4 @@
-# ChatRDA
+# 🤖 ChatRDA
 
 Bem-vindo ao **ChatRDA**!
 
