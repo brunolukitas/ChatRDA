@@ -14,11 +14,11 @@ Você pode encontrar informações importantes nos seguintes arquivos:
 - 📜 [Termos de Uso](TERMS.md)
 - 🔒 [Política de Privacidade](PRIVACY.md)
 
-## 🚀 Sobre o projeto
+# 🚀 Sobre o projeto
 
 o ChatRDA é um projeto ainda em fase de testes
 
-## 🛠️ Desenvolvimento
+# 🛠️ Desenvolvimento
 
 Este projeto está em desenvolvimento e novas funções podem ser adicionadas no futuro.
 
@@ -28,3 +28,4 @@ Todos os direitos reservados à Bruno Lukitas (BL).
 
 💬 [Servidor do Discord RDA](https://discord.gg/smWySqBN2d)
 
+🤖  [Site oficial do Bot](https://chatrda.netlify.app/)
